@@ -32,6 +32,6 @@ print(len(x))
 
 # Print all the values in x multiplied by 1000
 # YOUR CODE HERE
-for x in x:
-    print(x * 1000) # unsure if valid, will change if not?
-    
+for num in x:
+    print(num*1000) # unsure if valid, will change if not?
+print(x)
