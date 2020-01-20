@@ -24,7 +24,7 @@ import calendar
 from datetime import datetime
 
 
-# Use number as month, so 02 for February.
+# Use number as month, so 02(2 works as well) for February.
 
 # Gets arguments
 args = sys.argv
