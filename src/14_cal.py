@@ -23,6 +23,9 @@ import sys
 import calendar
 from datetime import datetime
 
+
+# Use number as month, so 02 for February.
+
 # Gets arguments
 args = sys.argv
 
